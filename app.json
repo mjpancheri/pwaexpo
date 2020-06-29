@@ -17,7 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.pancheri.pwa",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.pancheri.pwa",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
